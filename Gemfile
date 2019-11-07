@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+source 'https://gem.fury.io/localsearch' do
+  
+end
+
+
 gem 'rails', '3.2.13'
 
 gem 'sqlite3'
